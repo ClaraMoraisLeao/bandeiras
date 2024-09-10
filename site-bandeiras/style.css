@@ -1,0 +1,113 @@
+.Alagoas{
+    display: flex;
+    border: 1px solid black;
+    width: 600px;
+}
+
+.alagoas-1{
+   width: 200px;
+   height: 400px;
+   background-color: red;
+}
+
+.alagoas-2{
+    width: 200px;
+    height: 400px;
+    background-image:url("alagoas-oficial-brasao-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.alagoas-3{
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+
+
+.franca{
+    display: flex;
+    border: 1px solid black;
+    width: 600px;
+}
+
+.franca-1{
+   width: 200px;
+   height: 400px;
+   background-color: blue;
+}
+
+.franca-2{
+    width: 200px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.franca-3{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+
+
+
+.italia{
+    display: flex;
+    border: 1px solid black;
+    width: 600px;
+}
+
+.italia-1{
+   width: 200px;
+   height: 400px;
+   background-color: green;
+}
+
+.italia-2{
+    width: 200px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.italia-3{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+
+
+.alemanha{
+    
+   flex-direction: column;
+    border: 1px solid black;
+    width: 600px;
+}
+
+.alemanha-1{
+   width: 600px;
+   height: 100px;
+   background-color: rgb(0, 0, 0);
+}
+
+.alemanha-2{
+    width: 600px;
+    height: 100px;
+    background-color: red;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.alemanha-3{
+    width: 600px;
+    height: 100px;
+    background-color: yellow;
+}
+
